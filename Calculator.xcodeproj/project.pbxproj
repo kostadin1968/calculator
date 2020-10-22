@@ -13,6 +13,7 @@
 		03F0177E253F76EC00F080B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03F0177C253F76EC00F080B9 /* Main.storyboard */; };
 		03F01780253F76ED00F080B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03F0177F253F76ED00F080B9 /* Assets.xcassets */; };
 		03F01783253F76ED00F080B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03F01781253F76ED00F080B9 /* LaunchScreen.storyboard */; };
+		03F0178B253F7AB400F080B9 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F0178A253F7AB400F080B9 /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		03F0177F253F76ED00F080B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03F01782253F76ED00F080B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03F01784253F76ED00F080B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03F0178A253F7AB400F080B9 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				03F01778253F76EC00F080B9 /* SceneDelegate.swift */,
 				03F0177A253F76EC00F080B9 /* ViewController.swift */,
 				03F0177C253F76EC00F080B9 /* Main.storyboard */,
+				03F0178A253F7AB400F080B9 /* RoundButton.swift */,
 				03F0177F253F76ED00F080B9 /* Assets.xcassets */,
 				03F01781253F76ED00F080B9 /* LaunchScreen.storyboard */,
 				03F01784253F76ED00F080B9 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03F0178B253F7AB400F080B9 /* RoundButton.swift in Sources */,
 				03F0177B253F76EC00F080B9 /* ViewController.swift in Sources */,
 				03F01777253F76EC00F080B9 /* AppDelegate.swift in Sources */,
 				03F01779253F76EC00F080B9 /* SceneDelegate.swift in Sources */,
